@@ -18,3 +18,6 @@ print (12*10)
 
 # the symbol: / is for dividing
 print (20/10)
+
+bananas = 2
+print (bananas)
